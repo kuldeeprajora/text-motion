@@ -2,6 +2,8 @@
 
 Text Motion is a dockable Adobe After Effects ScriptUI panel that applies reusable text-animation setups directly to selected text layers.
 
+**Project status: Final Draft**
+
 ## Included Animations
 
 - Line Sweep
@@ -42,7 +44,6 @@ Restart After Effects, then open **Window > Text Motion**.
 
 Applying presets repeatedly creates additional generated animators. Remove the existing generated animation first when you want to replace it with a different setup.
 
-## Development Status
+## Status
 
-This is a newly added tool. Its functionality is implemented, but full macOS and Windows testing is still pending. The repository remains private until compatibility and animation behavior have been verified.
-
+**Final Draft.** The current functionality and animation set are accepted, and no further feature changes are planned before release. The repository remains private until the decision is made to publish it.
